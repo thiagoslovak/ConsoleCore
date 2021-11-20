@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTOP", "GameTOP\GameTOP.csproj", "{B198E48C-DB03-44B1-9803-7FEA97AFA07C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTOP.Lib", "GameTOP.Lib\GameTOP.Lib.csproj", "{8D627125-5B59-4B57-AF0C-0226EC138C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTOP.Interface", "GameTOP.Interface\GameTOP.Interface.csproj", "{DBB58F26-4B4D-4991-A83E-2487F2C92657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B198E48C-DB03-44B1-9803-7FEA97AFA07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B198E48C-DB03-44B1-9803-7FEA97AFA07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B198E48C-DB03-44B1-9803-7FEA97AFA07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B198E48C-DB03-44B1-9803-7FEA97AFA07C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D627125-5B59-4B57-AF0C-0226EC138C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D627125-5B59-4B57-AF0C-0226EC138C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D627125-5B59-4B57-AF0C-0226EC138C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D627125-5B59-4B57-AF0C-0226EC138C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB58F26-4B4D-4991-A83E-2487F2C92657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB58F26-4B4D-4991-A83E-2487F2C92657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB58F26-4B4D-4991-A83E-2487F2C92657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB58F26-4B4D-4991-A83E-2487F2C92657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
